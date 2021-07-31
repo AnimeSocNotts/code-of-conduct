@@ -1,4 +1,4 @@
-# Anime Society Code of Conduct
+# AnimeSoc Code of Conduct
 
 _Updated: 2021-07-31_
 
