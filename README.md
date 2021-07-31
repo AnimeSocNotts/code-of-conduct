@@ -1,4 +1,4 @@
-# HackSoc Code of Conduct
+# Anime Society Code of Conduct
 
 _Updated: 2021-07-31_
 
@@ -36,11 +36,11 @@ The following behaviors are considered harassment and are unacceptable within th
  - Sustained disruption of society events, including talks and presentations.
 
 ## 4. Consequences of Unacceptable Behavior
-Unacceptable behavior from any attendee or society member, including sponsors and those with decision-making authority, will not be tolerated.
+Unacceptable behavior from any attendee or society member, including those with decision-making authority, will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If an attendee or society member engages in unacceptable behavior, the committee members, their appointed deputies, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event).
+If an attendee or society member engages in unacceptable behavior, the committee members, their appointed deputies, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event or membership).
 
 ## 5. Reporting Guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
@@ -55,12 +55,12 @@ Additionally, committee members and their appointed deputies are available to he
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify The University of Nottingham Students' Union with a concise description of your grievance. Your grievance will be handled in accordance with the union's existing governing policies. https://su.nottingham.ac.uk/make-change/democracy-and-elections/guidance-and-policy-documents
 
 ## 7. Scope
-We expect all members and attendees (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all society venues–online and in-person–as well as in all one-on-one communications pertaining to society business.
+We expect all members and attendees (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all society venues–online and in-person–as well as in all direct communications pertaining to society business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
 
 ## 8. Other Applicable Policies
-As Animesoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
+As AnimeSoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
 
 ## 9. Contact info
 For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee at [anime@uonsu.com](mailto:anime@uonsu.com).
