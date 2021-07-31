@@ -3,11 +3,11 @@
 _Updated: 2021-07-31_
 
 ## 1. Purpose
-A primary goal of HackSoc is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the University of Nottingham Anime Society (AnimeSoc) is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our society, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in HackSoc to help us create safe and positive experiences for everyone.
+We invite all those who participate in AnimeSoc to help us create safe and positive experiences for everyone.
 
 ## 2. Open Tech Citizenship
 A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our society.
@@ -69,10 +69,10 @@ We expect all members and attendees (contributors, paid or otherwise; sponsors; 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
 
 ## 9. Other Applicable Policies
-As HackSoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
+As Animesoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
 
 ## 10. Contact info
-For all inquiries relating to the code of conduct, you should contact the Welfare and Inclusivity Officer or a member of the HackSoc Executive Committee.
+For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee.
 
 ### Welfare and Inclusivity Officer
 __Daudi Wampamba__ (as of 2021-07-13)
@@ -81,7 +81,7 @@ __Daudi Wampamba__ (as of 2021-07-13)
 ### HackSoc Executive Commitee
 [exec@hacksocnotts.co.uk](mailto:exec@hacksocnotts.co.uk)
 
-The latest contact details, including Discord usernames can also be found in the [#rules](https://discord.com/channels/500363419732410368/500366608448094238) channel on the HackSoc Discord server.
+The latest contact details, including Discord usernames can also be found in the [#rules](https://discord.com/channels/500363419732410368/500366608448094238) channel on the AnimeSoc Discord server.
 
 ## 11. License and attribution
 This Code of Conduct is adapted from the Citizen Code of Conduct
