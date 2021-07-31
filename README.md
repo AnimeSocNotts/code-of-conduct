@@ -30,32 +30,18 @@ The following behaviours are considered harassment and are unacceptable within t
  - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  - Inappropriate photography or recording.
  - Inappropriate physical contact. You should have someone’s consent before touching them.
- - Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances.
- - Deliberate intimidation, stalking or following (online or in person).
- - Advocating for, or encouraging, any of the above behaviour.
- - Sustained disruption of society events, including talks and presentations.
-
-## 4. Consequences of Unacceptable Behaviour
-Unacceptable behaviour from any attendee or society member, including those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behaviour is expected to comply immediately.
-
-If an attendee or society member engages in unacceptable behaviour, the committee members, their appointed deputies, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event or membership).
-
-## 5. Reporting Guidelines
+ - Unwelcome sexual attention. This includes sexualized comments or jokes, in## 5. Reporting Guidelines
 If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
 
 For incidents that occur outside of a society event you should email us at [anime@uonsu.com](mailto:anime@uonsu.com).
 
 For incidents that occur during a society event you should either contact a member of the society committee present at the event, or email us.
 
-Additionally, committee members and their appointed deputies are available to help attendees or society members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Additionally, committee members and their appointed deputies are available to help attendees or society members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 6. Addressing Grievances
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify The University of Nottingham Students' Union with a concise description of your grievance. Your grievance will be handled in accordance with the union's existing governing policies. https://su.nottingham.ac.uk/make-change/democracy-and-elections/guidance-and-policy-documents
-
-## 7. Scope
-We expect all members and attendees (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all society venues–online and in-person–as well as in all direct communications pertaining to society business.
+business.
 
 This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of society activities when such behaviour has the potential to adversely affect the safety and well-being of society members.
 
