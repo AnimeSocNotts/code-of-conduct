@@ -64,18 +64,3 @@ As AnimeSoc is a University of Nottingham Students' Union Society and Operates a
 
 ## 9. Contact info
 For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee at [anime@uonsu.com](mailto:anime@uonsu.com).
-
-## 11. License and attribution
-This Code of Conduct is adapted from the Citizen Code of Conduct
-
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
-
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-_Revision 2.3. Posted 6 March 2017._
-
-_Revision 2.2. Posted 4 February 2016._
-
-_Revision 2.1. Posted 23 June 2014._
-
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
