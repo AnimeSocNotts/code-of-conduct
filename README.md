@@ -1,6 +1,6 @@
 # HackSoc Code of Conduct
 
-_Updated: 2021-07-25_
+_Updated: 2021-07-31_
 
 ## 1. Purpose
 A primary goal of HackSoc is to be inclusive to the largest number of members, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
