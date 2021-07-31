@@ -67,15 +67,6 @@ As Animesoc is a University of Nottingham Students' Union Society and Operates a
 ## 10. Contact info
 For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee at [anime@uonsu.com](mailto:anime@uonsu.com).
 
-### Welfare and Inclusivity Officer
-__Daudi Wampamba__ (as of 2021-07-13)
-[daudi.wampamba@hacksocnotts.co.uk](mailto:daudi.wampamba@hacksocnotts.co.uk)
-
-### HackSoc Executive Commitee
-[exec@hacksocnotts.co.uk](mailto:exec@hacksocnotts.co.uk)
-
-The latest contact details, including Discord usernames can also be found in the [#rules](https://discord.com/channels/500363419732410368/500366608448094238) channel on the AnimeSoc Discord server.
-
 ## 11. License and attribution
 This Code of Conduct is adapted from the Citizen Code of Conduct
 
