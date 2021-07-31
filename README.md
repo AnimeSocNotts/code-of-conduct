@@ -59,13 +59,13 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 ## 8. Scope
 We expect all members and attendees (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all society venues–online and in-person–as well as in all one-on-one communications pertaining to society business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of society activities when such behavior has the potential to adversely affect the safety and well-being of society members.
 
 ## 9. Other Applicable Policies
 As Animesoc is a University of Nottingham Students' Union Society and Operates at the University of Nottingham, in addition to our code of conduct, you are also expected to comply with the [University of Nottingham Students' Union's Student Groups Code of Conduct](https://af602652235155630226-3e0448b2dcbed5ff06b014334489e811.ssl.cf3.rackcdn.com/code-of-conduct-guidance-document-october-2019.pdf) and the [University of Nottingham's Code of Discipline](https://www.nottingham.ac.uk/governance/documents/code-of-discipline-010120.pdf).
 
 ## 10. Contact info
-For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee.
+For all inquiries relating to the code of conduct, you should contact the AnimeSoc Committee at [anime@uonsu.com](mailto:anime@uonsu.com).
 
 ### Welfare and Inclusivity Officer
 __Daudi Wampamba__ (as of 2021-07-13)
