@@ -18,7 +18,7 @@ The following behaviors are expected and requested of all society members:
  - Refrain from demeaning, discriminatory, or harassing behavior and speech.
  - Be mindful of your surroundings and of your fellow participants. Alert committee members, appointed deputies, or relevant university or union staff if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  - Remember that society event venues may be shared with members of the public; please be respectful to all patrons of these locations.
- - Refrain from screenshotting or otherwise recording the screen during online meetings and events, unless all participants have been informed screenshots are taking place and have been given ample oppurtunity to opt out.
+ - Refrain from screenshotting or otherwise recording the screen during online meetings and events, unless all participants have been informed screenshots are taking place and have been given ample opportunity to opt out.
  
 ## 4. Unacceptable Behavior
 The following behaviors are considered harassment and are unacceptable within the society:
@@ -40,7 +40,7 @@ Unacceptable behavior from any attendee or society member, including sponsors an
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If an attendee or society member engages in unacceptable behavior, the committee members, their apointed deputiees, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event).
+If an attendee or society member engages in unacceptable behavior, the committee members, their appointed deputies, or relevant members of university of union staff may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the society without warning (and without refund in the case of a paid event).
 
 ## 6. Reporting Guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
