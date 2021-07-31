@@ -9,13 +9,6 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in AnimeSoc to help us create safe and positive experiences for everyone.
 
-## 2. Open Tech Citizenship
-A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our society.
-
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
-
-If you see someone who is making an extra effort to ensure our society is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
-
 ## 3. Expected Behavior
 The following behaviors are expected and requested of all society members:
 
