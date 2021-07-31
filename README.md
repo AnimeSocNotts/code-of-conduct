@@ -30,7 +30,7 @@ The following behaviors are considered harassment and are unacceptable within th
  - Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  - Inappropriate photography or recording.
  - Inappropriate physical contact. You should have someone’s consent before touching them.
- - Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcomed sexual advances.
+ - Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances.
  - Deliberate intimidation, stalking or following (online or in person).
  - Advocating for, or encouraging, any of the above behavior.
  - Sustained disruption of society events, including talks and presentations.
@@ -45,11 +45,9 @@ If an attendee or society member engages in unacceptable behavior, the committee
 ## 6. Reporting Guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a committee member, their appointed deputy, or relevant members of university or union staff as soon as possible.
 
-For incidents that occur outside of a society event you should email the Welfare and Inclusivity Officer (Daudi Wampamba <daudi.wampamba@hacksocnotts.co.uk>).
+For incidents that occur outside of a society event you should email us at [anime@uonsu.com](mailto:anime@uonsu.com).
 
-For incidents that occur during a society event you should either contact a member of the society committee present at the event, or email the Welfare and Inclusivity Officer.
-
-At select events we may also monitor calls to [+44 (0) 115 824 4588](tel:+441158244588).
+For incidents that occur during a society event you should either contact a member of the society committee present at the event, or email us.
 
 Additionally, committee members and their appointed deputies are available to help attendees or society members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
